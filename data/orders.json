@@ -8,7 +8,7 @@
   "product": {
     "$oid": "60bd4f9785222041687c803e"
   },
-  "quantity": 1,
+  "quantity": 1, 
   "user": {
     "$oid": "6096b4561f2c5b020462c3e2"
   },
